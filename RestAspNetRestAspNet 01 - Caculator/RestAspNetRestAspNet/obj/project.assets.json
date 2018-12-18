@@ -11800,11 +11800,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dougl\\Documents\\Projeto Rest AspNet\\RestAsp-Net\\RestAspNetRestAspNet\\RestAspNetRestAspNet\\RestAspNetRestAspNet.csproj",
+      "projectUniqueName": "C:\\Users\\dougl\\Documents\\Projeto Rest AspNet\\RestAsp-Net\\RestAspNetRestAspNet 01 - Caculator\\RestAspNetRestAspNet\\RestAspNetRestAspNet.csproj",
       "projectName": "RestAspNetRestAspNet",
-      "projectPath": "C:\\Users\\dougl\\Documents\\Projeto Rest AspNet\\RestAsp-Net\\RestAspNetRestAspNet\\RestAspNetRestAspNet\\RestAspNetRestAspNet.csproj",
+      "projectPath": "C:\\Users\\dougl\\Documents\\Projeto Rest AspNet\\RestAsp-Net\\RestAspNetRestAspNet 01 - Caculator\\RestAspNetRestAspNet\\RestAspNetRestAspNet.csproj",
       "packagesPath": "C:\\Users\\dougl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dougl\\Documents\\Projeto Rest AspNet\\RestAsp-Net\\RestAspNetRestAspNet\\RestAspNetRestAspNet\\obj\\",
+      "outputPath": "C:\\Users\\dougl\\Documents\\Projeto Rest AspNet\\RestAsp-Net\\RestAspNetRestAspNet 01 - Caculator\\RestAspNetRestAspNet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
