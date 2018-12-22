@@ -1,0 +1,28 @@
+C:\Users\dougl\Documents\Projeto Rest AspNet\RestAsp-Net\RestAspNetRestAspNet\RestAspNetRestAspNet\bin\Debug\netcoreapp2.1\RestAspNetRestAspNet.deps.json
+C:\Users\dougl\Documents\Projeto Rest AspNet\RestAsp-Net\RestAspNetRestAspNet\RestAspNetRestAspNet\bin\Debug\netcoreapp2.1\RestAspNetRestAspNet.runtimeconfig.json
+C:\Users\dougl\Documents\Projeto Rest AspNet\RestAsp-Net\RestAspNetRestAspNet\RestAspNetRestAspNet\bin\Debug\netcoreapp2.1\RestAspNetRestAspNet.runtimeconfig.dev.json
+C:\Users\dougl\Documents\Projeto Rest AspNet\RestAsp-Net\RestAspNetRestAspNet\RestAspNetRestAspNet\bin\Debug\netcoreapp2.1\RestAspNetRestAspNet.dll
+C:\Users\dougl\Documents\Projeto Rest AspNet\RestAsp-Net\RestAspNetRestAspNet\RestAspNetRestAspNet\bin\Debug\netcoreapp2.1\RestAspNetRestAspNet.pdb
+C:\Users\dougl\Documents\Projeto Rest AspNet\RestAsp-Net\RestAspNetRestAspNet\RestAspNetRestAspNet\obj\Debug\netcoreapp2.1\RestAspNetRestAspNet.csprojAssemblyReference.cache
+C:\Users\dougl\Documents\Projeto Rest AspNet\RestAsp-Net\RestAspNetRestAspNet\RestAspNetRestAspNet\obj\Debug\netcoreapp2.1\RestAspNetRestAspNet.csproj.CoreCompileInputs.cache
+C:\Users\dougl\Documents\Projeto Rest AspNet\RestAsp-Net\RestAspNetRestAspNet\RestAspNetRestAspNet\obj\Debug\netcoreapp2.1\RestAspNetRestAspNet.RazorAssemblyInfo.cache
+C:\Users\dougl\Documents\Projeto Rest AspNet\RestAsp-Net\RestAspNetRestAspNet\RestAspNetRestAspNet\obj\Debug\netcoreapp2.1\RestAspNetRestAspNet.RazorAssemblyInfo.cs
+C:\Users\dougl\Documents\Projeto Rest AspNet\RestAsp-Net\RestAspNetRestAspNet\RestAspNetRestAspNet\obj\Debug\netcoreapp2.1\RestAspNetRestAspNet.AssemblyInfoInputs.cache
+C:\Users\dougl\Documents\Projeto Rest AspNet\RestAsp-Net\RestAspNetRestAspNet\RestAspNetRestAspNet\obj\Debug\netcoreapp2.1\RestAspNetRestAspNet.AssemblyInfo.cs
+C:\Users\dougl\Documents\Projeto Rest AspNet\RestAsp-Net\RestAspNetRestAspNet\RestAspNetRestAspNet\obj\Debug\netcoreapp2.1\RestAspNetRestAspNet.RazorTargetAssemblyInfo.cache
+C:\Users\dougl\Documents\Projeto Rest AspNet\RestAsp-Net\RestAspNetRestAspNet\RestAspNetRestAspNet\obj\Debug\netcoreapp2.1\RestAspNetRestAspNet.dll
+C:\Users\dougl\Documents\Projeto Rest AspNet\RestAsp-Net\RestAspNetRestAspNet\RestAspNetRestAspNet\obj\Debug\netcoreapp2.1\RestAspNetRestAspNet.pdb
+C:\Users\dougl\Documents\Projeto Rest AspNet\RestAsp-Net\RestAspNetRestAspNet 02 - Using Diferent Verbs\RestAspNetRestAspNet\bin\Debug\netcoreapp2.1\RestAspNetRestAspNet.deps.json
+C:\Users\dougl\Documents\Projeto Rest AspNet\RestAsp-Net\RestAspNetRestAspNet 02 - Using Diferent Verbs\RestAspNetRestAspNet\bin\Debug\netcoreapp2.1\RestAspNetRestAspNet.runtimeconfig.json
+C:\Users\dougl\Documents\Projeto Rest AspNet\RestAsp-Net\RestAspNetRestAspNet 02 - Using Diferent Verbs\RestAspNetRestAspNet\bin\Debug\netcoreapp2.1\RestAspNetRestAspNet.runtimeconfig.dev.json
+C:\Users\dougl\Documents\Projeto Rest AspNet\RestAsp-Net\RestAspNetRestAspNet 02 - Using Diferent Verbs\RestAspNetRestAspNet\bin\Debug\netcoreapp2.1\RestAspNetRestAspNet.dll
+C:\Users\dougl\Documents\Projeto Rest AspNet\RestAsp-Net\RestAspNetRestAspNet 02 - Using Diferent Verbs\RestAspNetRestAspNet\bin\Debug\netcoreapp2.1\RestAspNetRestAspNet.pdb
+C:\Users\dougl\Documents\Projeto Rest AspNet\RestAsp-Net\RestAspNetRestAspNet 02 - Using Diferent Verbs\RestAspNetRestAspNet\obj\Debug\netcoreapp2.1\RestAspNetRestAspNet.csprojAssemblyReference.cache
+C:\Users\dougl\Documents\Projeto Rest AspNet\RestAsp-Net\RestAspNetRestAspNet 02 - Using Diferent Verbs\RestAspNetRestAspNet\obj\Debug\netcoreapp2.1\RestAspNetRestAspNet.csproj.CoreCompileInputs.cache
+C:\Users\dougl\Documents\Projeto Rest AspNet\RestAsp-Net\RestAspNetRestAspNet 02 - Using Diferent Verbs\RestAspNetRestAspNet\obj\Debug\netcoreapp2.1\RestAspNetRestAspNet.RazorAssemblyInfo.cache
+C:\Users\dougl\Documents\Projeto Rest AspNet\RestAsp-Net\RestAspNetRestAspNet 02 - Using Diferent Verbs\RestAspNetRestAspNet\obj\Debug\netcoreapp2.1\RestAspNetRestAspNet.RazorAssemblyInfo.cs
+C:\Users\dougl\Documents\Projeto Rest AspNet\RestAsp-Net\RestAspNetRestAspNet 02 - Using Diferent Verbs\RestAspNetRestAspNet\obj\Debug\netcoreapp2.1\RestAspNetRestAspNet.AssemblyInfoInputs.cache
+C:\Users\dougl\Documents\Projeto Rest AspNet\RestAsp-Net\RestAspNetRestAspNet 02 - Using Diferent Verbs\RestAspNetRestAspNet\obj\Debug\netcoreapp2.1\RestAspNetRestAspNet.AssemblyInfo.cs
+C:\Users\dougl\Documents\Projeto Rest AspNet\RestAsp-Net\RestAspNetRestAspNet 02 - Using Diferent Verbs\RestAspNetRestAspNet\obj\Debug\netcoreapp2.1\RestAspNetRestAspNet.RazorTargetAssemblyInfo.cache
+C:\Users\dougl\Documents\Projeto Rest AspNet\RestAsp-Net\RestAspNetRestAspNet 02 - Using Diferent Verbs\RestAspNetRestAspNet\obj\Debug\netcoreapp2.1\RestAspNetRestAspNet.dll
+C:\Users\dougl\Documents\Projeto Rest AspNet\RestAsp-Net\RestAspNetRestAspNet 02 - Using Diferent Verbs\RestAspNetRestAspNet\obj\Debug\netcoreapp2.1\RestAspNetRestAspNet.pdb
