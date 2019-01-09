@@ -1,18 +1,18 @@
 ﻿using System.Collections.Generic;
 using System;
 using System.Linq;
-using RestAspNetRestAspNet.Services;
+using RestAspNetRestAspNet.Business;
 using RestAspNetRestAspNet.Model.Context;
 using RestAspNetRestAspNet.Model;
 
-namespace RestAspNetRestAspNet.Services.Implementattions
+namespace RestAspNetRestAspNet.Repository.Implementattions
 {
-    public class PersonServiceImpl : IPersonService
+    public class PersonRepositoryImpl : IPersonRepository
     {
 
         private MySQLContext _context;
 
-        public PersonServiceImpl(MySQLContext context)
+        public PersonRepositoryImpl(MySQLContext context)
         {
             _context = context;
         }
@@ -91,7 +91,7 @@ namespace RestAspNetRestAspNet.Services.Implementattions
             }
         }
 
-        private bool Exists(long? id)
+        public bool Exists(long? id)
         {
             return _context.Persons.Any(p => p.Id.Equals(id));
         }
